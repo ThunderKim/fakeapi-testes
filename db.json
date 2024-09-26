@@ -1,0 +1,20 @@
+{
+	"items": [
+		{
+			"loja": "D RJ 02",
+			"estacao": "001",
+			"servico": "RMIINTEPDV",
+			"status": "Inativo",
+			"report": "20240718 14:44:31.107"
+		},
+		{
+			"loja": "D RJ 02",
+			"estacao": "002",
+			"servico": "RMIINTEPDV",
+			"status": "Inativo",
+			"report": "20240816 10:21:40.906"
+		}
+	],
+	"hasNext": false,
+	"remainingRecords": 0
+}
